@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tanlabs Clean"
+  short_description: "Limpa Unicode e revisa textos com clareza"
+  default_prompt: "Use $tanlabs-clean para limpar caracteres invisíveis do meu texto, preservando o conteúdo."
